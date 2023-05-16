@@ -1,0 +1,15 @@
+artifact_uri: /home/pravesh/pydataberlin-2019/mlruns/788318654385086242/860d9724468c4ecca73dd020382667c1/artifacts
+end_time: 1684230627452
+entry_point_name: ''
+experiment_id: '788318654385086242'
+lifecycle_stage: active
+run_id: 860d9724468c4ecca73dd020382667c1
+run_name: shivering-deer-383
+run_uuid: 860d9724468c4ecca73dd020382667c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684230625476
+status: 3
+tags: []
+user_id: pravesh
